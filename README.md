@@ -1,2 +1,3 @@
 # FMML_COURSE_ASSIGNMENTSS
 https://github.com/Venkymodelling/FMML_COURSE_ASSIGNMENTSS/blob/295a89b4edf9af2aa6b6252224e55151004ad62f/FMML_Aug22_M1Lab4_LinearAlgebra.ipynb
+https://github.com/Venkymodelling/FMML_COURSE_ASSIGNMENTSS/blob/feed202b2b2f3ed4b88e6021e09147bd3d319621/FMML_Aug22_M1Lab1_PythonBasics.ipynb
